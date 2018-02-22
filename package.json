@@ -17,8 +17,10 @@
   },
   "homepage": "https://github.com/ankireddygudala/odin#readme",
   "dependencies": {
+    "body-parser": "^1.18.2",
     "express": "^4.16.2",
-    "web3": "^0.19.1",
-    "body-parser": "^1.18.2"
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "web3": "^0.19.1"
   }
 }
